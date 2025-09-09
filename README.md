@@ -1,4 +1,4 @@
-# Jenkins-CICD-for-SSH-connection
+# Jenkins Automation for SSH connection
 
 To achieve the process of SSH Connection for remote servers from one master server
 
